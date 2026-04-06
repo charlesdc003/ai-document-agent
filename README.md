@@ -110,6 +110,6 @@ python3 agent.py your_document.pdf
 
 ## Author
 
-Charles Cox | Charles Cox Consulting https://github.com/charlesdc003
+Charles Cox | https://github.com/charlesdc003
 
 Built as a portfolio project demonstrating PDF processing, unstructured data extraction, LLM-based document analysis, structured output generation, and Airtable integration.
